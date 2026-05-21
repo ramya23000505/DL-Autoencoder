@@ -1,5 +1,5 @@
 # DL- Convolutional Autoencoder for Image Denoising
-
+### DATE: 21-05-2026
 ## AIM
 To develop a convolutional autoencoder for image denoising application.
 
@@ -142,12 +142,13 @@ def visualize_denoising(model, loader, num_images=10):
 ### OUTPUT
 
 ### Model Summary
-Include your model summary
+<img width="665" height="472" alt="image" src="https://github.com/user-attachments/assets/9a441752-185b-4209-b6e4-64e68555be11" />
 
 ### Training loss
+<img width="300" height="115" alt="image" src="https://github.com/user-attachments/assets/52960c0c-f5a1-4ebd-934e-2e38fd159fbe" />
 
 ## Original vs Noisy Vs Reconstructed Image
-Include a few sample images here.
+<img width="1705" height="597" alt="image" src="https://github.com/user-attachments/assets/1a22fa7d-735d-45e9-8d3e-c515763521d8" />
 
 ## RESULT
 Thus, a convolutional autoencoder for image denoising application has been developed.
